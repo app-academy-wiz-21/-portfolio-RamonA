@@ -2,14 +2,33 @@ body {
     background-color: cadetblue
 }
 
- a {
-    background-color:
-}
+/* a {
+    background-color:;
+}*/
 
 #current-link {
     text-decoration: none;
 }
 
 .uppercase {
-    text-transform: upercase;
+    text-transform: uppercase;
+    font-size: 38px;
+}
+
+img {
+    width: 350px;
+    height: auto;
+}
+
+h1 {
+      border-style: dashed;
+   border-width: 3px;
+   border-color: black;
+   padding-top: 23px;
+   padding-bottom: 23px;
+   padding: 20px;
+   margin-top: 35px;
+   margin-bottom: 35px;
+   margin-left: 65px;
+   margin-right: 170px;
 }
